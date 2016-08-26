@@ -1,7 +1,7 @@
-name,building,location,image
-CR-Newton,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
-CR-Ford,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
-CR-Franklin,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
-CR-Turin,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
-CR-Watt,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
-CR-Pascal,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png
+name,building,location,image,capacity,screen
+CR-Newton,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,10,yes
+CR-Ford,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,20,no
+CR-Franklin,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,5,yes
+CR-Turin,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,15,yes
+CR-Watt,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,40,yes
+CR-Pascal,950,First Floor,https://intusurgops.sharepoint.com/company/locations/Shared%20Documents/Meeting%20Rooms%20-%20images/B950.png,25,no
